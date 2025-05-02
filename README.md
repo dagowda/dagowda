@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Dhanush Gowda</h1>
+<h3 align="center">Security Engineer | Malware developer</h3>
 
-<!--
-**dagowda/dagowda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dagowda&show_icons=true&theme=tokyonight" alt="dagowda github stats" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dagowda&theme=tokyonight&hide_border=true" alt="dagowda streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagowda&layout=compact&theme=tokyonight" alt="dagowda top languages" />
+</p>
