@@ -1,4 +1,4 @@
-<h1 align="center">See you later Alligator , I'm Dhanush Gowda</h1>
+<h1 align="center">I'm Dhanush Gowda, See you later Alligator</h1>
 <h3 align="center">Security Engineer | Malware developer</h3>
 
 ## 📊 Stats
